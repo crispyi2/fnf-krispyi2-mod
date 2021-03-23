@@ -3,3 +3,5 @@
 ## the poses for now are just placeholders
 
 ## custom music and voices come last
+
+## credits
