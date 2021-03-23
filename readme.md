@@ -7,3 +7,5 @@
 ## credits
 
 - thanks to [mmccallo813](https://github.com/mmccall0813) for the html port
+
+## ill think about porting the mod to the standalone version once this vesion is complete
