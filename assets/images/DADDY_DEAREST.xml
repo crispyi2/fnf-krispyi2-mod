@@ -6,6 +6,8 @@
 	<SubTexture name="Dad Sing Note LEFT0004" x="0" y="0" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
 	<SubTexture name="Dad idle dance0002" x="0" y="479" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
 	<SubTexture name="Dad idle dance0003" x="720" y="479" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
+	<SubTexture name="Dad idle dance0004" x="0" y="479" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
+	<SubTexture name="Dad idle dance0005" x="0" y="1916" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
 	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="958" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
 	<SubTexture name="Dad Sing Note DOWN0001" x="720" y="958" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
 	<SubTexture name="Dad Sing Note DOWN0002" x="1440" y="0" width="720" height="479" frameX="0" frameY="0" frameWidth="720" frameHeight="479" />
