@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.6 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Krispyi2.png" width="1455" height="1044">
+  <SubTexture name="Krispy Sing Note LEFT0000" x="0" y="0"  width="495" height="529" frameX="-0" frameY="-0" frameWidth="495" frameHeight="529"/>
+  <SubTexture name="Krispy Sing Note RIGHT0000" x="495" y="0"  width="513" height="518" frameX="-0" frameY="-0" frameWidth="513" frameHeight="518"/>
+  <SubTexture name="Krispy idle dance0000" x="0" y="529"  width="494" height="515" frameX="-0" frameY="-0" frameWidth="494" frameHeight="515"/>
+  <SubTexture name="Krispy Sing Note UP0000" x="494" y="529"  width="463" height="508" frameX="-0" frameY="-0" frameWidth="463" frameHeight="508"/>
+  <SubTexture name="Krispy Sing Note DOWN0000" x="1008" y="0"  width="447" height="504" frameX="-0" frameY="-0" frameWidth="447" frameHeight="504"/>
+</TextureAtlas>
