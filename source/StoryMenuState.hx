@@ -56,7 +56,7 @@ class StoryMenuState extends MusicBeatState
 		"MOMMY MUST MURDER",
 		"RED SNOW",
 		"hating simulator ft. moawling",
-		"Krispy's The Cat"
+		"Krispy The Cat"
 	];
 
 	var txtWeekTitle:FlxText;
